@@ -1,4 +1,4 @@
-const { sendFail, sendError } = require("./FailureHandling");
+const { sendFail, sendError } = require("./failureHandling");
 const { sendSuccess } = require("./sucessHandling");
 
 module.exports = { sendFail, sendError, sendSuccess };
