@@ -6,4 +6,3 @@ function failureHandling(res, statusCode, message,) {
 }
 
 module.exports = failureHandling;
-``
